@@ -1,0 +1,231 @@
+
+body {
+  padding-top: 80px;
+  margin: 0px;
+  padding: 0px;
+}
+.container-fluid{
+  position:relative;
+}
+
+.nav-link {
+  color: black !important;
+  font-weight: 500;
+  margin-right: 10px;
+}
+
+.nav-link:hover {
+  background-color: #aa907b5d !important;
+}
+.navbar-nav{
+  margin: 0px;
+  padding: 0px;
+}
+
+.hero {
+  background-image: url('img/bg.jpg');
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding-left: 50px;
+}
+
+.content h1 {
+  font-size: 64px;
+  font-weight: 400;
+  margin: 0 0 40px 0;
+}
+
+.content p {
+  font-size: 19px;
+  margin-bottom: 25px;
+}
+
+.button {
+  background-color: rgba(255, 255, 255, 0.8);
+  color: black;
+  padding: 18px 30px;
+  text-decoration: none;
+  font-weight: bold;
+  display: inline-block;
+}
+.button:hover{
+  background-color: antiquewhite;
+}
+.owner{
+  text-align: center;
+  font: weight 400px;
+  margin:20px 0px;
+}
+.card{
+  border: none;
+  margin: 0px;
+  padding: 0px;
+}
+.card-icon h5{
+  font-size: 18px !important;
+}
+.card p{
+  margin: 15px 0px;
+}
+.design-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+  padding: 130px 30px;
+  background-color: #eee;
+  font-family: Arial, sans-serif;
+}
+
+.design {
+  padding-right: 40px;
+}
+
+.design h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.design p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+.btn {
+  text-decoration: none;
+  background-color: #000;
+  color: #fff;
+  padding: 12px 20px;
+  font-size: 15px;
+}
+
+.btn i {
+  border:none;
+  margin-right: 8px;
+}
+
+.image-selfie img {
+  padding-bottom: 20px;
+  border-radius: 8px;
+}
+.team-img {
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.card { 
+  border: none;
+}
+
+.stats-section {
+  background-color: #555;
+  color: white;
+  padding: 40px 0;
+}
+
+
+.stats-container {
+  margin: 0px;
+  padding:20px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  background-color: #555;
+}
+
+.stat-box {
+  margin: 20px;
+  color: #eee;
+}
+
+.stat-box h2 {
+  margin-bottom: 10px;
+}
+.container-e{
+  margin: 100px 0px;
+}
+.container-a{
+  padding: 64px;
+}
+.skills-title {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.skills-text {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.skill-bar {
+  margin-bottom: 20px;
+  
+}
+.main-container{
+  background-color: #5a5959;
+   padding-top: 120px;
+   padding-left: 20px;
+}
+.price{
+  text-align: center;
+ color: #fff;
+}
+.price p{
+  padding: 20px;
+}
+.pricing-container {
+  gap: 10px; 
+}
+.contact-us{
+  background-color: #eeeaea;
+}
+.info{
+  padding: 20px;
+  margin-top: 10%;
+  text-align: center;
+}
+.contact-info {
+  margin: 20px;
+  font-family: Arial, sans-serif;
+  color: #000;
+}
+.info-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.info-item i {
+  font-size: 24px;
+  margin-right: 10px;
+}
+.footer{
+background-color: #000;
+color: #fff;
+padding: 70px 0;
+text-align: center;
+ }
+.footer .social-icons i {
+  font-size: 1.5rem;
+ }
+ .footer .social-icons a:hover {
+  color: #ccc;
+}
+.to-top-btn {
+ font-size: 20px;
+ margin-bottom: 20px;
+ }
+ .container-top button:hover{
+ background-color: gray;
+ }
+.footer a {
+  color: #fff;
+}
+.footer a:hover {
+   color: #ccc;
+}
